@@ -37,3 +37,5 @@ Then, you're all **set up.** and it should look like:
 ![CLI Studio Chat UI](reference_images/chat.png)
 
 # Model downloading
+
+![CLI Studio Model Downloader UI](reference_images/download-models.png)
