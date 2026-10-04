@@ -25,10 +25,10 @@ And that's about it since **my program installs the rest for you**
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/dacoder44/cli-studio.git](https://github.com/dacoder44/cli-studio.git)
-   cd cli-studio```
+   cd cli-studio
 2. **Run the main python file**
     ```bash
-    python main.py```
+    python main.py
 
 Then, you're all **set up.** and it should look like:
 ![CLI Studio Main Menu](reference_images/main-menu.png)
