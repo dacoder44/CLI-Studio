@@ -1,9 +1,5 @@
 # CLI Studio
 
-![CLI Studio Chat UI](reference_images/chat.png)
-![CLI Studio Model Downloader UI](reference_images/download-models.png)
-![CLI Studio Main Menu](reference_images/main-menu.png)
-
 A lightweight, high-performance desktop interface and local API server powered directly by `llama.cpp`. CLI Studio provides a clean chat UI, session persistence, and custom socket API interaction without relying on heavy wrapper daemons.
 
 ## Features
@@ -34,4 +30,10 @@ And that's about it since **my program installs the rest for you**
     ```bash
     python main.py```
 
-Then, you're all **set up.**
+Then, you're all **set up.** and it should look like:
+![CLI Studio Main Menu](reference_images/main-menu.png)
+
+# Chatting
+![CLI Studio Chat UI](reference_images/chat.png)
+
+# Model downloading
