@@ -1,8 +1,8 @@
 # CLI Studio
 
-![CLI Studio Chat UI]("reference_images/chat.png")
-![CLI Studio Model Downloader UI]("reference_images/download-models.png")
-![CLI Studio Main Menu]("reference_images/main-menu.png)
+![CLI Studio Chat UI](reference_images/chat.png)
+![CLI Studio Model Downloader UI](reference_images/download-models.png)
+![CLI Studio Main Menu](reference_images/main-menu.png)
 
 A lightweight, high-performance desktop interface and local API server powered directly by `llama.cpp`. CLI Studio provides a clean chat UI, session persistence, and custom socket API interaction without relying on heavy wrapper daemons.
 
